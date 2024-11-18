@@ -14,5 +14,7 @@ To use it you need:
 
 4)put any files you want optimised into the input files directory found in /data/
 
-5)submit the batch file you can edit ntaskspernode to control how many cpus the code is run on 
+5)submit the batch file you can edit ntaskspernode to control how many cpus the code is run on
+
+6)error codes are piped to the parallel_xtb.err file and the slurm output is piped to parallel_xtb.out 
 
