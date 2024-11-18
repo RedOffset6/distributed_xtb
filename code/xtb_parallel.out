@@ -1,0 +1,33 @@
+Maximum number of parallel jobs: 10
+Printing all files in FILE_LIST:
+../input_files/periodopyridine.xyz
+../input_files/periodopyridine10.xyz
+../input_files/periodopyridine2.xyz
+../input_files/periodopyridine3.xyz
+../input_files/periodopyridine4.xyz
+../input_files/periodopyridine5.xyz
+../input_files/periodopyridine6.xyz
+../input_files/periodopyridine7.xyz
+../input_files/periodopyridine8.xyz
+../input_files/periodopyridine9.xyz
+Starting xtb on ../input_files/periodopyridine.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine10.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine10.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine9.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine9.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine5.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine5.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine3.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine3.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine7.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine7.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine4.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine4.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine6.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine6.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine2.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine2.xyz at Thu Nov 14 16:54:25 GMT 2024
+Starting xtb on ../input_files/periodopyridine8.xyz at Thu Nov 14 16:54:25 GMT 2024
+Finished xtb on ../input_files/periodopyridine8.xyz at Thu Nov 14 16:54:25 GMT 2024
+All jobs completed.

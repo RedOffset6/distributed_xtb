@@ -1,0 +1,18 @@
+This code parallalises XTB to optimise geometaries from xyz files.
+
+It has been written to distribute xtb jobs over up to 28 cpus on a blue crystal node
+
+To use it you need:
+
+1)to install conda forge
+
+2)use conda forge to install xtb and create a conda environment which contains xtb
+
+3)make sure the conda environment isnt activate when you submit a job as if 
+  you are already in teh env ten when the code tries to switch into the env
+  it wont work
+
+4)put any files you want optimised into the input files directory found in /data/
+
+5)submit the batch file you can edit ntaskspernode to control how many cpus the code is run on 
+
